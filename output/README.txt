@@ -1,0 +1,1 @@
+* The file, source_sub_cube_BS20_BF1.fits which is needed to run main/Reproducibility_part2_with_beam_corrected_MainDataset.ipynb, is too large to be uploaded. You can obtain this file by yourself by running the Source Extractor script shared in main.
