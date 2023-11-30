@@ -17,4 +17,3 @@ ref. https://sextractor.readthedocs.io/en/latest/index.html
 - astorpy
 - matplotlib
 - mpl_toolkits
-- 
