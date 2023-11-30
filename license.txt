@@ -1,7 +1,19 @@
+There are a couple of oepn-source softwares that are used in our package. Below, we specify what we used and put the corresponding licenses.
+
+1. SExtractor
+==============================================================================
 The SExtractor code is licensed under a GPL v3 license:
 
 SExtractor is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 SExtractor is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+==============================================================================
+ref. https://sextractor.readthedocs.io/en/latest/Installing.html
 
+2. ps_eor
 
+We take some part of this package for converting the density flux to temperature from: 
+https://gitlab.com/flomertens/ps_eor/-/blob/master/ps_eor/datacube.py#L1068
+
+3. Python packages
+Numpy, astropy, matplotlib, mpl_toolkits, etc.
