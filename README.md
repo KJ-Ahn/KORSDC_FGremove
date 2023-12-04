@@ -4,6 +4,8 @@ This package is developed as a part of SKA Data Challenge (SDC) 3a for EoR Foreg
 
 SKA SDC 3a web page: https://sdc3.skao.int/overview
 
+![Rproducibility badge](https://www.dropbox.com/scl/fi/k9b9w1018mmk5eud9p07c/SDC3a_reproducible_pipeline.png?rlkey=ixir15re4bvrcat1jiui353rw&dl=0)
+
 ## Installation
 git clone https://github.com/KJ-Ahn/KORSDC_FGremove.git
 
